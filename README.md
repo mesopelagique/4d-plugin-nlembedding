@@ -129,4 +129,4 @@ See [NLLanguage](https://developer.apple.com/documentation/naturallanguage/nllan
 ## Requirements
 
 - macOS (Intel or Apple Silicon)
-- 4D v20 or later
+- 4D v20R10 or later for 4D.Vector
