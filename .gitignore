@@ -1,0 +1,9 @@
+nlembedding/build/*
+nlembedding/test/userPreferences.*
+nlembedding/.vs/*
+nlembedding/Objs/*
+nlembedding/test/Plugins/nlembedding.bundle/Contents/Windows64/nlembedding.exp
+nlembedding/test/Plugins/nlembedding.bundle/Contents/Windows64/nlembedding.lib
+nlembedding/test/Project/DerivedData/*
+nlembedding/test/Data/*
+nlembedding/test/data.*

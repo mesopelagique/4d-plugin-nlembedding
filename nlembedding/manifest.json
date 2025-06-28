@@ -1,0 +1,16 @@
+{
+    "name": "AI",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "Embedding",
+            "syntax": "nl_word_embedding(&T;&T):C",
+            "threadSafe": true
+        },
+		{
+			"theme": "Embedding",
+			"syntax": "nl_sentence_embedding(&T;&T):C",
+			"threadSafe": true
+		}
+    ]
+}
