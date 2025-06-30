@@ -4,6 +4,9 @@
 
 Convert text input to embedding using Apple [Natural Language](https://developer.apple.com/documentation/naturallanguage).
 
+> [!CAUTION]
+> This project is **not suitable for Retrieval-Augmented Generation (RAG)** or other AI-based workflows.
+
 ## Overview
 
 This 4D plugin provides text embedding capabilities using Apple's Natural Language framework. It supports both word-level and sentence-level embeddings with multi-language support.
